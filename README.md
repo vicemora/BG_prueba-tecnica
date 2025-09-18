@@ -45,21 +45,12 @@ BG_prueba-tecnica/
 ├── venv/                # Entorno virtual (no se sube a GitHub)
 ├── requirements.txt     # Dependencias del proyecto
 └── README.md            # Documentación del proyecto
+└── tools.py             # APIS/tools simuladas  
+└── clientes.json        # Pequeña base de datos de clientes
+
+
 ```
 
----
-
-## Requisitos previos  
-
-- Python 3.9+  
-- pip (gestor de paquetes de Python)  
-
-Instalar dependencias:  
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Notas  
 
