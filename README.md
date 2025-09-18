@@ -50,6 +50,7 @@ BG_prueba-tecnica/
 
 
 ```
+Nota: En el archivo .env se necesita un key de Gemini, por razones de seguridad Github no me deja colocar la mía
 
 
 ## Notas  
